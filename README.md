@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Izuku-Might
+- 👀 I’m interested in discord bots
+- 🌱 I’m currently learning GoLang
+- 📫 How to reach me DM what else
